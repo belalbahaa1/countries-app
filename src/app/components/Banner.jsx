@@ -7,7 +7,7 @@ const Banner = () => {
   return (
     <div className="justify-center items-center m-12 gap-28 md:flex md:justify-between ">
       <span className="text-slate-400 text-2xl  md:text-4xl">
-        Explore the world's wonders: Discover Country Info and Culture at your
+        Explore the worlds wonders: Discover Country Info and Culture at your
         Fingertips
       </span>
       <m.div
